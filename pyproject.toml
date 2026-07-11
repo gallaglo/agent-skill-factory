@@ -1,0 +1,9 @@
+[project]
+name = "skill-factory"
+version = "0.1.0"
+description = "Self-extending ADK agent: solves data-wrangling tasks and grows a human-approved Agent Skill library"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-adk>=2.4.0",
+]
